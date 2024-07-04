@@ -1,7 +1,7 @@
 {
   "request": [
     {
-      "price": 250,
+      "price": 350,
       "name": "Chicken Tikka Masala",
       "id": 1,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg",
@@ -11,134 +11,134 @@
       "description": "This perfectly thin cut just melts in your mouth."
     },
     {
-      "price": 6.99,
-      "name": "Blackened Shrimp",
+      "price": 450,
+      "name": "Butter Chicken",
       "id": 2,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/blackened-shrimp.jpg",
-      "calories": 450,
-      "protein": 4,
-      "carbs": 3,
-      "description": "Seasoned shrimp from the depths of the Atlantic Ocean."
+      "calories": 490,
+      "protein": 20,
+      "carbs": 10,
+      "description": "A creamy and delicious dish made with tender chicken pieces."
     },
     {
-      "price": 7.49,
-      "name": "Buffalo Chicken Bites",
+      "price": 300,
+      "name": "Paneer Tikka",
       "id": 3,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/buffalo-chicken-bites.jpg",
-      "calories": 800,
-      "protein": 5,
-      "carbs": 22,
-      "description": "The tasty bites of chicken have just the right amount of kick to them."
+      "calories": 350,
+      "protein": 18,
+      "carbs": 12,
+      "description": "Marinated paneer cubes grilled to perfection."
     },
     {
-      "price": 12.99,
-      "name": "Chicken Avocado Spring Roll",
+      "price": 250,
+      "name": "Dal Makhani",
       "id": 4,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-avocado-spring-roll.jpg",
-      "calories": 480,
-      "protein": 7,
-      "description": "These won't last 10 seconds once they hit the table.",
-      "carbs": 19
+      "calories": 420,
+      "protein": 15,
+      "carbs": 30,
+      "description": "A rich and creamy lentil dish."
     },
     {
-      "price": 8.99,
-      "name": "Chicken Dumplings",
+      "price": 150,
+      "name": "Samosa",
       "id": 5,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-dumplings.jpg",
-      "calories": 580,
-      "protein": 4,
-      "description": "It's really hard to keep coming up with these descriptions.",
-      "carbs": 14
+      "calories": 200,
+      "protein": 5,
+      "carbs": 25,
+      "description": "Crispy pastry filled with spiced potatoes and peas."
     },
     {
-      "price": 9.99,
-      "name": "Chicken Fingers",
+      "price": 120,
+      "name": "Pakora",
       "id": 6,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-fingers.jpg",
-      "calories": 675,
-      "protein": 9,
-      "description": "You can never go wrong with some good tenders.",
-      "carbs": 5
+      "calories": 180,
+      "protein": 4,
+      "carbs": 22,
+      "description": "Deep-fried fritters made with vegetables or meat."
     },
     {
-      "price": 11.49,
-      "name": "Chicken Wings",
+      "price": 400,
+      "name": "Biryani",
       "id": 7,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-wings.jpg",
-      "calories": 700,
-      "protein": 13,
-      "carbs": 11,
-      "description": "You'll need extra napkins with these tasty treats."
+      "calories": 600,
+      "protein": 25,
+      "carbs": 50,
+      "description": "Aromatic rice dish with spices, meat, or vegetables."
     },
     {
-      "price": 8.29,
-      "name": "Fried Cheese Ravioli",
+      "price": 100,
+      "name": "Roti",
       "id": 8,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/fried-cheese-ravioli.jpg",
-      "calories": 415,
-      "protein": 2,
-      "carbs": 29,
-      "description": "I'm getting soooo hungry building this app..."
+      "calories": 100,
+      "protein": 3,
+      "carbs": 20,
+      "description": "Whole wheat flatbread."
     },
     {
-      "price": 13.99,
-      "name": "Jumbo Tater Tots",
+      "price": 200,
+      "name": "Aloo Paratha",
       "id": 9,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/jumbo-tater-tot.jpg",
-      "calories": 625,
-      "protein": 3,
-      "description": "Scrumptious tots with a side of ranch.",
-      "carbs": 40
+      "calories": 300,
+      "protein": 7,
+      "carbs": 40,
+      "description": "Stuffed flatbread with spiced potatoes."
     },
     {
-      "price": 12.99,
-      "name": "Meatballs",
+      "price": 120,
+      "name": "Naan",
       "id": 10,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/meatballs.jpg",
-      "calories": 500,
-      "protein": 33,
-      "description": "It's a spiiiiicy meat-a-ball!",
-      "carbs": 2
+      "calories": 250,
+      "protein": 5,
+      "carbs": 35,
+      "description": "Leavened flatbread made in a tandoor."
     },
     {
-      "price": 6.99,
-      "name": "Mozzarella Sticks",
+      "price": 80,
+      "name": "Papad",
       "id": 11,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/mozzarella-sticks.jpg",
-      "calories": 930,
+      "calories": 50,
       "protein": 2,
-      "description": "The best appetizer there is.\nDon't @ me.",
-      "carbs": 32
+      "carbs": 10,
+      "description": "Crispy thin cracker made from lentils."
     },
     {
-      "price": 10.99,
-      "name": "Philly Cheesesteak Sliders",
+      "price": 100,
+      "name": "Raita",
       "id": 12,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/philly-cheesesteak-sliders.jpg",
-      "calories": 725,
-      "protein": 28,
-      "carbs": 28,
-      "description": "These look incredible. That's it. That's the description."
+      "calories": 60,
+      "protein": 4,
+      "carbs": 6,
+      "description": "Yogurt-based side dish with cucumber and spices."
     },
     {
-      "price": 5.99,
-      "name": "Rainbow Spring Rolls",
+      "price": 180,
+      "name": "Chole Bhature",
       "id": 13,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/rainbow-spring-rolls.jpg",
-      "calories": 270,
-      "protein": 2,
-      "description": "How did these even make the menu???",
-      "carbs": 4
+      "calories": 500,
+      "protein": 10,
+      "carbs": 70,
+      "description": "Spicy chickpea curry served with deep-fried bread."
     },
     {
-      "price": 12.49,
-      "name": "Stuffed Shells",
+      "price": 220,
+      "name": "Paneer Butter Masala",
       "id": 14,
       "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/stuff-shells.jpg",
-      "calories": 850,
-      "protein": 4,
-      "description": "I'm getting hungrier just looking at these.",
-      "carbs": 42
+      "calories": 450,
+      "protein": 18,
+      "carbs": 20,
+      "description": "Rich and creamy dish with paneer cubes in a tomato-based gravy."
     }
   ]
 }
